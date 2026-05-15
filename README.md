@@ -43,8 +43,3 @@ Shows the effect of step size selection on RK4 accuracy using small and large st
 
 - NumPy
 - Matplotlib
-
-## Author
-
-Numerical Methods for Engineering Project  
-Maxwell’s Equations and Runge-Kutta Methods
